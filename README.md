@@ -51,5 +51,13 @@ Add row labels to these zone results.
 
 __Step 8__
 
-Run the videos through [B-SOiD](https://github.com/DeepLabCut/DeepLabCut) and apply a median filter to this data with default settings.
-Our DeepLabCut project folder can be found here.
+Prepare the tracking data to be analysed for Behaviours.
+* In the non-filtered data, remove the rows that have the centre-point likelihood drop below 0.05 (rather than make blank).
+* Find which files become empty after this, and remove these.
+* Reset the frame numbers, so they are 0, 1, 2, ...
+* Combine CSVs so they are importable in B-SOiD. CSVs need to be imported one at a time, so this makes it easier to select a large dataset.
+
+__Step 9__
+
+Run the videos through [B-SOiD](https://github.com/YttriLab/B-SOID).
+Our B-SOiD project folder can be found here.
