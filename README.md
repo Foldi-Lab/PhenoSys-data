@@ -65,7 +65,10 @@ python Step_11_Create_spider_plots_and_time_bin_heatmaps.py
 
 Set the import_location in these codes to the example import and export files folder. <br>
 The top of each code will also show which files are used.
-Click here to see a new guide 
+
+## Guide
+
+Click [here](https://github.com/Foldi-Lab/PhenoSys-data/tree/main/Codes) to see the full steps for analysis and plotting.
 
 ### Acknowledgements
 
