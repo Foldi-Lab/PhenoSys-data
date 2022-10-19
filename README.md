@@ -12,9 +12,7 @@ The following files are also needed to follow these steps:
 
 ## Using the codes
 
-The only parameter you need to change is the "import_location", which is the path to the "import and export files for codes" folder.
-The results will be exported back to the same place.
-This folder contains all the example files you need to run these codes.
+Set the import_location in these codes to the example import and export files folder. <br>
 The top of each code will also show which files are used.
 
 ## Steps for analysis
@@ -24,7 +22,7 @@ The top of each code will also show which files are used.
 __Step 1__
 
 Snip the whole experiment videos into videos for each session.
-The steps for doing this can be found here: https://github.com/Foldi-Lab/PhenoSys-codes
+The steps for doing this can be found [here](https://github.com/Foldi-Lab/PhenoSys-codes):
 
 __Step 2__
 
