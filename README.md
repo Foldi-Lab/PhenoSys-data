@@ -1,6 +1,6 @@
-# Steps from start to finish for the pose estimation and behavioural clustering analysis in PhenoSys eLife 2022 🐁
+## Steps from start to finish for the pose estimation and behavioural clustering analysis in PhenoSys eLife 2022 🐁
 
-## Overview
+### Overview
 
 This repository contains the codes and steps used to analyse the pose estimation and behavioural clustering data and create figures for PhenoSys eLife 2022. <br>
 The following files are also needed to follow these steps:
@@ -10,20 +10,20 @@ The following files are also needed to follow these steps:
 
 Click [here](https://github.com/Foldi-Lab/PhenoSys-data/tree/main/Codes) to see the full steps for analysis and plotting.
 
-## Installation
+### Installation
 
-### FFMPEG
+#### FFMPEG
 
 Follow the steps [here](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/) to install FFMPEG. <br>
 This is used for the video pre-processing.
 
-### R
+#### R
 
 Follow the steps [here](https://github.com/ETHZ-INS/DLCAnalyzer) to install the packages and DLCAnalyzer repository. <br>
 I recommend using [RGui](https://cran.r-project.org/bin/windows/base/) for the IDE.
 This is used for generating the zone analysis results.
 
-### Python
+#### Python
 
 Follow the steps below to install the packages needed to run these codes. <br>
 Most of the analysis and plotting is done in Python. <br>
@@ -63,7 +63,7 @@ python Step_10_Prepare_behavioural_data_for_plotting.py
 python Step_11_Create_spider_plots_and_time_bin_heatmaps.py
 ```
 
-## Acknowledgements
+### Acknowledgements
 
 __Author:__ <br>
 [Harry Dempsey](https://github.com/H-Dempsey) (Andrews lab and Foldi lab) <br>
