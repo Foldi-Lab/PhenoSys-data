@@ -18,6 +18,7 @@ This is used for the video pre-processing.
 ### R
 
 Follow the steps [here](https://github.com/ETHZ-INS/DLCAnalyzer) to install the packages and DLCAnalyzer repository. <br>
+I recommend using [RGui](https://cran.r-project.org/bin/windows/base/) for the IDE.
 This is used for generating the zone analysis results.
 
 ### Python
