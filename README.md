@@ -44,7 +44,7 @@ Create a conda environment and install the dependencies.
 conda env create -n PSD -f Python_dependencies.yaml
 ```
 
-Change the directory to the place where the codes are.
+Close, reopen anaconda prompt and change the directory to the place where the codes are.
 ```
 cd PhenoSys-data/Codes
 ```
