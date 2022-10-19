@@ -8,6 +8,8 @@ The following files are also needed to follow these steps:
 * The DeepLabCut project folder, which is used to predict the locations of the rodent body parts over time.
 * The B-SOiD project folder, which is used to predict the rodent behaviours over time.
 
+Click [here](https://github.com/Foldi-Lab/PhenoSys-data/tree/main/Codes) to see the full steps for analysis and plotting.
+
 ## Installation
 
 ### FFMPEG
@@ -60,15 +62,6 @@ python Step_8_Prepare_tracking_data_for_behavioural_clustering.py
 python Step_10_Prepare_behavioural_data_for_plotting.py
 python Step_11_Create_spider_plots_and_time_bin_heatmaps.py
 ```
-
-## Using the codes
-
-Set the import_location in these codes to the example import and export files folder. <br>
-The top of each code will also show which files are used.
-
-## Guide
-
-Click [here](https://github.com/Foldi-Lab/PhenoSys-data/tree/main/Codes) to see the full steps for analysis and plotting.
 
 ## Acknowledgements
 
