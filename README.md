@@ -1,12 +1,11 @@
-## Data and codes for PhenoSys paper
+## Overview
 
-__Codes for pose estimation__
+This repository contains the codes used to analyse the pose estimation and behavioural clustering data and create figures. <br>
 
-This folder contains the codes used to analyse the data from DeepLabCut and B-SOiD and also generate the pose estimation/behavioural clustering figures.
-
-__Raw data for figures__
-
-This folder contains the raw data used to plot each figure.
+The only parameter you need to change is the "import_location", which is the path to the "import and export files for codes" folder.
+The results will be exported back to the same place.
+This folder contains all the example files you need to run these codes.
+The top of each code will also show which files are used.
 
 ## Steps for analysis
 
