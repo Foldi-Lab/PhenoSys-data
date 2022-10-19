@@ -1,6 +1,9 @@
 
 ## Steps for analysis 🐁
 
+For all the python codes, the import_location should be the example import and export files folder. <br>
+The top of each code will also show which files are used.
+
 ### Pre-processing
 
 __Step 1__
