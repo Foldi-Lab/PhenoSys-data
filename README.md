@@ -1,4 +1,4 @@
-## Steps from start to finish for the pose estimation and behavioural clustering analysis in PhenoSys eLife 2022 🐁
+# Steps from start to finish for the pose estimation and behavioural clustering analysis in PhenoSys eLife 2022 🐁
 
 ### Overview
 
