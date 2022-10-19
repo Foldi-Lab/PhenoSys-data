@@ -59,5 +59,19 @@ Prepare the tracking data to be analysed for Behaviours.
 
 __Step 9__
 
-Run the videos through [B-SOiD](https://github.com/YttriLab/B-SOID).
+Use the combined CSVs as training data in [B-SOiD](https://github.com/YttriLab/B-SOID).
+Once the model is trained, analyse the tracking data before combining.
+Export the "bout_lengths" and "labels_pose" data types.
 Our B-SOiD project folder can be found here.
+
+__Step 10__
+
+Prepare the behavioural data for plotting.
+* Find the time spent doing each behaviour.
+* Find the time spent doing each behaviour per time bin. Make sure to add the missing data (when the centre point likelihood drops below 0.05) back to these files.
+
+__Step 11__
+
+Create plots:
+* Spider plots about the proportion of time spent doing behaviours across each video.
+* Time bin heat maps about the proportion of time spent doing behaviours within video time bins.
