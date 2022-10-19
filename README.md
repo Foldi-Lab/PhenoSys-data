@@ -42,7 +42,7 @@ Create a conda environment and install the dependencies.
 conda env create -n PSD -f Python_dependencies.yaml
 ```
 
-Change the directory to the place where the are.
+Change the directory to the place where the codes are.
 ```
 cd PhenoSys-data/Codes
 ```
@@ -70,7 +70,7 @@ The top of each code will also show which files are used.
 
 Click [here](https://github.com/Foldi-Lab/PhenoSys-data/tree/main/Codes) to see the full steps for analysis and plotting.
 
-### Acknowledgements
+## Acknowledgements
 
 __Author:__ <br>
 [Harry Dempsey](https://github.com/H-Dempsey) (Andrews lab and Foldi lab) <br>
