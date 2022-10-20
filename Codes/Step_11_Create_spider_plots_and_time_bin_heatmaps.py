@@ -560,6 +560,12 @@ def create_time_bin_plots(import_location):
                                  option['Group 1 name']+' vs '+option['Group 2 name']+'.png')
             export_fig = os.path.join(export_location, export_name_plots)
             plt.savefig(export_fig, bbox_inches='tight', pad_inches=0.2)
+
+            # Save the raw data.
+            export_name_data = ('Graph '+str(graph_no)+' '+
+                                option['Group 1 name']+' vs '+option['Group 2 name']+'.xlsx')
+            export_data = os.path.join(export_location, export_name_data)
+            comparison.to_excel(export_data)
             
             plt.close()
             
