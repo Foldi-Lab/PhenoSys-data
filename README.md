@@ -1,4 +1,4 @@
-## Steps from start to finish for the pose estimation and behavioural clustering analysis in Huang-&-Milton-et-al-eLife-2022 🐁
+## Steps from start to finish for the pose estimation and behavioural clustering analysis in Huang-&-Milton-et-al-2022 🐁
 
 ### Overview
 
