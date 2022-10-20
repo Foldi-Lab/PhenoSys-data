@@ -27,6 +27,7 @@ This is used for generating the zone analysis results.
 
 Follow the steps below to install the packages needed to run these codes. <br>
 Most of the analysis and plotting is done in Python. <br>
+If you want to use the DeepLabCut and B-SOiD project folders, install [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) and [B-SOiD](https://github.com/YttriLab/B-SOID).
 
 Install [Anaconda Navigator](https://www.anaconda.com/products/distribution). <br>
 Open Anaconda Prompt (on Mac open terminal and install X-Code when prompted). <br>
