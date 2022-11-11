@@ -4,9 +4,9 @@
 
 This repository contains the codes and steps used to analyse the pose estimation and behavioural clustering data and create figures for PhenoSys eLife 2022. <br>
 The following files are also needed to follow these steps:
-* The example import and export files folder.
-* The DeepLabCut project folder, which is used to predict the locations of the rodent body parts over time.
-* The B-SOiD project folder, which is used to predict the rodent behaviours over time.
+* The [example import and export files folder](https://figshare.com/s/145a99e0a3d57c72fa3c).
+* The [DeepLabCut project folder](https://figshare.com/s/4d801e6659fd1a9528ee), which is used to predict the locations of the rodent body parts over time.
+* The [B-SOiD project folder](https://figshare.com/s/7ff44dbae7135df9ca54), which is used to predict the rodent behaviours over time.
 
 Click [here](https://github.com/Foldi-Lab/PhenoSys-data/tree/main/Codes) to see the full steps for analysis and plotting.
 
