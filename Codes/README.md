@@ -2,7 +2,7 @@
 ## Steps for analysis 🐁
 
 For all the python codes, the import_location should be the example import and export files folder. <br>
-The top of each code will also show which files are used.
+The top of each code will also show which files are used from this [folder](https://figshare.com/s/145a99e0a3d57c72fa3c).
 
 ### Pre-processing
 
@@ -20,7 +20,7 @@ Crop videos to 960x720, sharpen blurry videos, downsample everything to 576x432 
 __Step 3__
 
 Run the videos through [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) and apply a median filter to this data with default settings.
-Our DeepLabCut project folder can be found here.
+Use our [DeepLabCut project folder](https://figshare.com/s/4d801e6659fd1a9528ee).
 
 __Step 4__
 
@@ -56,7 +56,7 @@ __Step 9__
 Use the combined CSVs as training data in [B-SOiD](https://github.com/YttriLab/B-SOID).
 Once the model is trained, analyse the tracking data before combining.
 Export the "bout_lengths" and "labels_pose" data types.
-Our B-SOiD project folder can be found here.
+Use our [B-SOiD project folder](https://figshare.com/s/4d801e6659fd1a9528ee).
 
 __Step 10__
 
