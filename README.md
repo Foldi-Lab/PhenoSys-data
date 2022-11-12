@@ -8,7 +8,7 @@ The following files are also needed to follow these steps:
 * The [DeepLabCut project folder](https://figshare.com/s/4d801e6659fd1a9528ee), which is used to predict the locations of the rodent body parts over time.
 * The [B-SOiD project folder](https://figshare.com/s/7ff44dbae7135df9ca54), which is used to predict the rodent behaviours over time.
 
-Click [here](https://github.com/Foldi-Lab/PhenoSys-data/tree/main/Codes) to see the full steps for analysis and plotting.
+Click [here](https://github.com/Foldi-Lab/PhenoSys-data/tree/main/Codes) to see the full steps for analysis and plotting. <br>
 For the complete list of videos that we used, please contact the authors.
 
 ### Installation
