@@ -9,6 +9,7 @@ The following files are also needed to follow these steps:
 * The [B-SOiD project folder](https://figshare.com/s/7ff44dbae7135df9ca54), which is used to predict the rodent behaviours over time.
 
 Click [here](https://github.com/Foldi-Lab/PhenoSys-data/tree/main/Codes) to see the full steps for analysis and plotting.
+For the complete list of videos that we used, please contact the authors.
 
 ### Installation
 
